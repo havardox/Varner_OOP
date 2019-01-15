@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Varner_OOP
 {
-    public partial class Form1 : Form
+    public partial class HV_Form_2019_01_15 : Form
     {
-        public Form1()
+        public HV_Form_2019_01_15()
         {
             InitializeComponent();
         }
